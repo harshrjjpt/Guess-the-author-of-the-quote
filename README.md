@@ -1,10 +1,6 @@
 # Guess-the-author-of-the-quote
-In this game  I used Beautifullsoup to scrap the quotes from a quotes site. along with author name and their full information.
-so you'll be given a random quote and then you've to guess the name of the author of that quote.
-the game will give you different hints after your each wrong guess.
-after all wronng guesses the game will automatically tell you the right answer.
-this project really helped me to know the power of the beautiful soup to scrap the data from the websites.
-scrappping data
-managing it
-saving it in a file
-a good experience
+In this game, I used Beautiful soup to scrap the quotes from a quotes website.
+Along with the author's name and their complete information. Player will be given a random quote and then they have to guess the name of the author of that quote. 
+The game will give various hints after each wrong guess. After all wrong guesses, game will automatically tell the correct answer. 
+This project has  helped me to know the capability of beautiful soup to scarp the data from the websites.
+ Scrapping data along managing and saving it in a file was undoubtedly a good experience.
